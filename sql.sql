@@ -1,4 +1,4 @@
--- Active: 1684178592108@@127.0.0.1@3306@mybookshelf
+-- Active: 1685985859626@@127.0.0.1@3306@mybookshelf
 CREATE DATABASE mybookshelf;
 DROP DATABASE IF EXISTS mybookshelf;
 CREATE USER 'mybookshelf'@'localhost' IDENTIFIED BY 'mybookshelf';
